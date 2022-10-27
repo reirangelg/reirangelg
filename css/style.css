@@ -1,0 +1,53 @@
+body {
+  font-family: "Lucida Sans";
+  font-size: 16px;
+  font-weight: 100;
+  color: orangered;
+  background-color: darkgreen;
+}
+h1 {
+  font-family: "Times New Roman";
+
+  display: inline;
+  color: aqua;
+  font-size: 36px;
+  font-weight: bold;
+  background-color: darkorange;
+}
+
+h6 {
+  font-family: Georgia;
+  color: aquamarine;
+  font-size: 38px;
+}
+
+.span {
+  background-color: black;
+}
+
+p {
+  background-color: blanchedalmond;
+}
+
+.div {
+  background-color: honeydew;
+}
+
+.aside {
+  background-color: darkslategrey;
+  color: dimgray;
+  font-size: 38px;
+  font-family: "Helvetica";
+  font-weight: bolder;
+}
+
+.boton {
+  display: flex;
+}
+
+img {
+  width: 30%;
+  height: auto;
+  border: 5px solid blue;
+  border-radius: 50%;
+}
